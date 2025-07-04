@@ -1,0 +1,1001 @@
+Loan_Purpose,Loan_Amount,Interest_Rate,Loan_Term_Months,Loan_Type,EMI_Monthly_Payment
+Debt Consolidation,155746.78,8.9,8,Education Loan,20123.7
+Home Renovation/Improvement,83526.36,15.81,111,Business Loan,1436.44
+Education,250078.12,22.88,43,Personal Loan,8574.33
+Education,303711.1,21.48,44,Mortgage,10032.45
+Wedding/Special Event,140183.47,24.75,8,Education Loan,19188.0
+Vehicle Purchase,118561.04,11.35,96,Personal Loan,1884.86
+Vehicle Purchase,470319.83,5.32,89,Unsecured Loan,6406.97
+Other,224956.42,19.3,66,Mortgage,5556.57
+Home Renovation/Improvement,29134.24,14.23,60,Business Loan,681.38
+Vehicle Purchase,235622.95,13.43,84,Personal Loan,4341.72
+Business Expansion/Startup,15248.77,15.42,27,Business Loan,671.98
+Medical Expenses,78926.55,21.82,59,Unsecured Loan,2192.26
+Vehicle Purchase,471573.32,15.94,79,Secured Loan,9675.44
+Other,360013.31,18.03,117,Education Loan,6553.99
+Business Expansion/Startup,105246.43,9.81,47,Secured Loan,2705.99
+Other,52405.98,18.63,118,Secured Loan,971.32
+Home Renovation/Improvement,190809.87,6.86,29,Unsecured Loan,7158.86
+Debt Consolidation,171416.49,6.27,28,Business Loan,6596.71
+Business Expansion/Startup,411089.02,10.08,19,Education Loan,23499.3
+Medical Expenses,266396.64,19.42,99,Mortgage,5416.49
+Medical Expenses,470457.19,24.63,66,Education Loan,13077.12
+Education,327491.5,17.59,37,Mortgage,11530.43
+Other,459371.8,12.9,43,Personal Loan,13398.05
+Medical Expenses,223791.91,24.69,113,Education Loan,5116.82
+Business Expansion/Startup,140305.32,12.16,114,Education Loan,2081.13
+Medical Expenses,224492.95,10.2,74,Personal Loan,4099.61
+Education,367033.19,22.22,76,Personal Loan,9037.33
+Debt Consolidation,339732.12,14.48,90,Mortgage,6209.06
+Wedding/Special Event,142178.16,12.6,80,Personal Loan,2635.74
+Vehicle Purchase,18494.52,17.82,64,Auto Loan,449.72
+Other,199459.62,9.23,10,Mortgage,20799.46
+Wedding/Special Event,412350.21,15.77,70,Business Loan,9045.9
+Other,128931.77,5.96,11,Mortgage,12073.24
+Debt Consolidation,322868.31,5.12,115,Business Loan,3558.31
+Business Expansion/Startup,224487.47,17.27,88,Auto Loan,4514.62
+Wedding/Special Event,482406.79,20.04,101,Auto Loan,9918.08
+Other,205047.52,5.83,99,Auto Loan,2613.99
+Debt Consolidation,241991.99,21.36,40,Education Loan,8508.46
+Vehicle Purchase,360407.72,18.03,91,Secured Loan,7292.16
+Home Renovation/Improvement,232189.57,5.74,64,Unsecured Loan,4220.17
+Debt Consolidation,232327.16,16.22,66,Auto Loan,5342.9
+Other,461680.03,21.59,57,Education Loan,13017.23
+Medical Expenses,157521.91,19.17,43,Mortgage,5092.51
+Debt Consolidation,374491.53,8.36,82,Auto Loan,6010.45
+Education,403900.99,5.61,36,Personal Loan,12216.2
+Education,288067.02,20.86,45,Secured Loan,9281.18
+Other,175172.07,22.65,117,Unsecured Loan,3724.08
+Vehicle Purchase,481018.49,13.64,89,Personal Loan,8619.93
+Wedding/Special Event,6461.37,19.66,97,Business Loan,133.45
+Other,252521.64,22.78,91,Auto Loan,5850.49
+Home Renovation/Improvement,356384.08,7.75,43,Business Loan,9518.59
+Vehicle Purchase,444830.53,16.94,89,Unsecured Loan,8809.58
+Medical Expenses,443002.9,6.35,104,Education Loan,5549.71
+Business Expansion/Startup,244947.96,23.15,15,Education Loan,18962.32
+Home Renovation/Improvement,380978.5,8.4,48,Unsecured Loan,9372.5
+Other,478281.59,16.19,29,Business Loan,20038.35
+Other,64499.64,6.66,66,Business Loan,1169.84
+Business Expansion/Startup,127647.47,6.02,112,Personal Loan,1492.5
+Other,482839.91,10.75,9,Auto Loan,56080.47
+Wedding/Special Event,74959.97,23.58,115,Secured Loan,1648.88
+Other,481131.05,24.5,53,Auto Loan,14942.39
+Home Renovation/Improvement,365831.02,21.8,74,Personal Loan,9028.3
+Wedding/Special Event,295896.52,9.71,37,Mortgage,9286.07
+Vehicle Purchase,411484.93,24.31,77,Education Loan,10598.33
+Debt Consolidation,324758.28,11.44,64,Business Loan,6802.23
+Wedding/Special Event,326614.36,17.56,11,Auto Loan,32362.28
+Debt Consolidation,118510.49,12.96,97,Personal Loan,1977.48
+Debt Consolidation,277223.2,19.79,26,Secured Loan,13197.59
+Business Expansion/Startup,333432.88,19.31,11,Secured Loan,33316.54
+Other,289779.47,18.29,8,Unsecured Loan,38750.67
+Debt Consolidation,266890.49,23.39,74,Secured Loan,6841.92
+Medical Expenses,69157.57,5.48,27,Unsecured Loan,2728.38
+Education,8903.87,8.46,20,Secured Loan,478.88
+Business Expansion/Startup,105171.25,11.86,27,Education Loan,4457.14
+Business Expansion/Startup,317362.67,8.13,15,Business Loan,22322.31
+Medical Expenses,403616.15,24.19,65,Unsecured Loan,11195.82
+Debt Consolidation,409126.18,23.72,94,Secured Loan,9614.03
+Business Expansion/Startup,228318.5,19.16,64,Education Loan,5721.46
+Business Expansion/Startup,395936.29,15.51,46,Personal Loan,11472.03
+Other,70671.81,24.45,39,Secured Loan,2643.9
+Wedding/Special Event,191920.39,12.86,22,Business Loan,9838.85
+Business Expansion/Startup,195248.72,20.18,63,Business Loan,5049.21
+Business Expansion/Startup,395396.27,8.0,114,Mortgage,4962.75
+Education,103780.31,10.69,20,Secured Loan,5688.01
+Medical Expenses,27577.29,24.41,18,Mortgage,1844.99
+Vehicle Purchase,206252.2,10.51,57,Personal Loan,4612.01
+Debt Consolidation,31757.64,18.33,15,Business Loan,2385.04
+Debt Consolidation,258774.92,7.62,24,Mortgage,11658.89
+Medical Expenses,336564.73,16.67,100,Education Loan,6247.9
+Business Expansion/Startup,12133.8,23.2,85,Education Loan,291.92
+Education,471772.22,18.21,115,Business Loan,8698.07
+Other,14416.26,9.27,8,Education Loan,1865.24
+Wedding/Special Event,241323.5,21.5,18,Secured Loan,15803.44
+Wedding/Special Event,244530.43,6.39,81,Auto Loan,3724.52
+Business Expansion/Startup,366878.19,23.89,43,Unsecured Loan,12778.52
+Vehicle Purchase,139533.67,17.24,66,Unsecured Loan,3286.61
+Vehicle Purchase,91643.8,22.72,103,Auto Loan,2029.08
+Debt Consolidation,327868.2,23.91,28,Auto Loan,15391.45
+Business Expansion/Startup,472288.28,11.44,93,Mortgage,7680.64
+Business Expansion/Startup,134945.78,24.98,59,Business Loan,3993.29
+Home Renovation/Improvement,380449.02,7.38,118,Mortgage,4543.78
+Home Renovation/Improvement,130424.87,13.26,39,Unsecured Loan,4134.58
+Debt Consolidation,36212.85,15.02,77,Secured Loan,735.5
+Home Renovation/Improvement,259983.53,22.14,47,Secured Loan,8320.09
+Education,478828.13,10.1,103,Unsecured Loan,6969.81
+Education,105811.16,5.99,37,Auto Loan,3139.08
+Vehicle Purchase,263340.78,24.91,57,Mortgage,7922.74
+Vehicle Purchase,200220.96,15.66,115,Auto Loan,3372.06
+Vehicle Purchase,54967.98,12.45,39,Secured Loan,1720.96
+Vehicle Purchase,476376.75,20.31,87,Unsecured Loan,10501.02
+Home Renovation/Improvement,297626.16,18.48,14,Auto Loan,23795.67
+Wedding/Special Event,442241.67,11.33,36,Mortgage,14547.63
+Debt Consolidation,263176.37,8.51,41,Unsecured Loan,7419.85
+Business Expansion/Startup,217255.77,17.85,59,Unsecured Loan,5557.16
+Business Expansion/Startup,299889.41,11.04,114,Auto Loan,4257.96
+Education,282978.43,21.84,39,Auto Loan,10196.23
+Vehicle Purchase,395272.97,15.9,88,Business Loan,7634.71
+Debt Consolidation,300200.08,14.6,25,Business Loan,13999.0
+Home Renovation/Improvement,84334.66,23.54,81,Education Loan,2087.01
+Business Expansion/Startup,342965.65,10.3,11,Secured Loan,32807.27
+Education,117870.43,16.17,16,Unsecured Loan,8238.9
+Medical Expenses,113514.04,22.39,88,Auto Loan,2636.13
+Business Expansion/Startup,135534.22,16.35,58,Unsecured Loan,3395.57
+Home Renovation/Improvement,399342.48,19.01,71,Unsecured Loan,9408.55
+Wedding/Special Event,221473.61,23.53,119,Auto Loan,4820.87
+Debt Consolidation,267968.76,11.38,103,Auto Loan,4087.28
+Vehicle Purchase,496841.06,14.39,24,Mortgage,23946.41
+Wedding/Special Event,39675.65,15.49,95,Personal Loan,727.16
+Education,420228.78,20.8,14,Mortgage,34063.62
+Other,406245.84,20.67,83,Auto Loan,9235.52
+Wedding/Special Event,231095.69,23.3,27,Business Loan,11078.77
+Vehicle Purchase,6659.21,19.92,100,Personal Loan,136.94
+Education,495077.83,15.6,97,Business Loan,9010.02
+Medical Expenses,297616.51,9.79,96,Unsecured Loan,4483.08
+Home Renovation/Improvement,5459.27,15.92,11,Auto Loan,536.67
+Debt Consolidation,287296.99,5.74,65,Personal Loan,5153.1
+Vehicle Purchase,163576.41,17.04,67,Auto Loan,3800.32
+Vehicle Purchase,272497.67,24.05,13,Mortgage,24018.64
+Home Renovation/Improvement,410614.42,12.42,80,Mortgage,7572.61
+Debt Consolidation,423442.1,5.2,39,Mortgage,11824.23
+Other,260054.06,9.73,31,Secured Loan,9521.05
+Other,92752.7,14.9,71,Education Loan,1973.34
+Other,362059.12,6.27,8,Personal Loan,46327.97
+Wedding/Special Event,393371.68,13.95,69,Business Loan,8321.32
+Business Expansion/Startup,88677.11,7.15,109,Personal Loan,1108.47
+Other,152312.93,6.36,95,Secured Loan,2044.81
+Home Renovation/Improvement,101823.78,14.06,64,Unsecured Loan,2270.26
+Other,400780.75,18.01,53,Education Loan,11017.74
+Vehicle Purchase,243508.24,5.65,10,Secured Loan,24985.85
+Wedding/Special Event,277044.28,10.45,82,Auto Loan,4741.33
+Wedding/Special Event,368727.79,21.35,52,Auto Loan,10928.4
+Home Renovation/Improvement,265817.2,12.64,92,Education Loan,4526.0
+Home Renovation/Improvement,370879.84,9.18,73,Education Loan,6649.43
+Education,338298.02,9.42,83,Unsecured Loan,5562.31
+Education,42417.75,22.47,17,Business Loan,2936.43
+Home Renovation/Improvement,64681.1,23.95,24,Business Loan,3418.15
+Education,451053.2,24.95,22,Business Loan,25756.51
+Medical Expenses,244034.3,9.87,102,Unsecured Loan,3544.06
+Home Renovation/Improvement,231113.6,24.54,48,Personal Loan,7603.89
+Vehicle Purchase,352404.21,14.7,53,Secured Loan,9078.81
+Education,279475.25,21.55,65,Education Loan,7320.98
+Medical Expenses,30832.63,7.94,108,Auto Loan,400.44
+Medical Expenses,217168.77,14.05,50,Auto Loan,5762.73
+Other,365913.16,10.89,103,Mortgage,5482.83
+Vehicle Purchase,173928.58,11.48,30,Unsecured Loan,6696.82
+Medical Expenses,44829.87,11.98,80,Secured Loan,816.27
+Medical Expenses,97065.01,5.17,108,Secured Loan,1125.9
+Medical Expenses,252102.13,20.14,47,Mortgage,7797.37
+Medical Expenses,297885.56,13.97,112,Personal Loan,4773.63
+Other,122643.32,18.88,87,Education Loan,2597.5
+Medical Expenses,336444.19,21.17,73,Secured Loan,8232.0
+Education,261048.11,8.85,63,Business Loan,5195.5
+Debt Consolidation,490823.01,12.56,54,Secured Loan,11944.89
+Vehicle Purchase,381334.24,19.82,103,Education Loan,7728.2
+Education,308204.97,14.12,17,Mortgage,20109.49
+Education,351183.92,5.16,62,Mortgage,6464.91
+Business Expansion/Startup,382350.14,12.2,116,Auto Loan,5628.12
+Other,488207.18,15.39,119,Education Loan,8021.96
+Education,143138.28,19.4,9,Unsecured Loan,17217.33
+Medical Expenses,160569.4,15.05,35,Auto Loan,5696.29
+Other,449630.72,12.65,81,Education Loan,8281.67
+Wedding/Special Event,217673.06,8.45,109,Mortgage,2867.17
+Debt Consolidation,338529.14,22.24,34,Education Loan,13510.1
+Debt Consolidation,92958.97,15.29,85,Business Loan,1797.04
+Business Expansion/Startup,281929.18,6.07,51,Mortgage,6285.59
+Other,366754.55,9.78,70,Secured Loan,6895.97
+Debt Consolidation,292934.44,24.35,19,Secured Loan,18734.17
+Education,413381.5,17.08,102,Mortgage,7706.93
+Other,168216.16,15.95,28,Mortgage,7234.22
+Other,455071.84,13.92,10,Unsecured Loan,48460.76
+Business Expansion/Startup,63332.06,5.96,111,Business Loan,743.59
+Debt Consolidation,304788.37,16.07,96,Unsecured Loan,5659.91
+Debt Consolidation,127115.27,7.44,45,Personal Loan,3245.83
+Medical Expenses,79805.37,11.3,84,Unsecured Loan,1379.08
+Home Renovation/Improvement,118409.15,6.03,96,Mortgage,1557.8
+Medical Expenses,403629.41,18.13,116,Personal Loan,7397.24
+Vehicle Purchase,412593.11,5.39,39,Business Loan,11556.65
+Medical Expenses,433859.64,20.78,62,Unsecured Loan,11468.83
+Medical Expenses,320839.73,18.89,92,Business Loan,6624.99
+Education,256853.88,24.51,42,Education Loan,9167.81
+Other,394193.11,15.54,101,Secured Loan,7018.39
+Wedding/Special Event,37538.51,10.88,102,Unsecured Loan,565.61
+Medical Expenses,254730.47,13.37,93,Secured Loan,4412.83
+Education,42015.02,19.4,8,Education Loan,5641.1
+Debt Consolidation,93766.88,19.18,85,Personal Loan,2024.73
+Wedding/Special Event,236885.5,16.47,15,Auto Loan,17581.48
+Vehicle Purchase,289805.27,18.48,67,Education Loan,6964.5
+Vehicle Purchase,456138.14,8.23,76,Mortgage,7721.36
+Education,483209.48,15.25,85,Business Loan,9330.28
+Wedding/Special Event,84043.79,13.25,99,Mortgage,1400.06
+Wedding/Special Event,199086.0,8.91,115,Education Loan,2580.26
+Education,259416.24,19.13,94,Secured Loan,5343.87
+Medical Expenses,434726.03,11.04,89,Personal Loan,7175.43
+Business Expansion/Startup,482002.45,22.65,102,Auto Loan,10684.18
+Debt Consolidation,158371.09,11.57,104,Education Loan,2418.53
+Debt Consolidation,408159.14,12.02,113,Business Loan,6050.12
+Other,41570.57,5.65,39,Auto Loan,1169.27
+Home Renovation/Improvement,78570.67,7.52,91,Education Loan,1135.51
+Vehicle Purchase,287845.07,13.87,89,Auto Loan,5195.12
+Medical Expenses,64919.6,17.73,38,Unsecured Loan,2244.91
+Education,170684.14,18.16,102,Mortgage,3295.07
+Other,11849.96,16.11,114,Auto Loan,203.6
+Debt Consolidation,143678.91,21.36,15,Auto Loan,10998.67
+Medical Expenses,103493.15,8.23,116,Auto Loan,1296.55
+Home Renovation/Improvement,25566.29,22.16,53,Mortgage,760.46
+Home Renovation/Improvement,148176.74,7.13,98,Mortgage,1999.06
+Home Renovation/Improvement,240084.94,22.72,67,Education Loan,6353.93
+Debt Consolidation,119466.24,23.22,85,Personal Loan,2875.64
+Business Expansion/Startup,396048.16,7.96,107,Unsecured Loan,5180.8
+Education,274168.93,6.52,43,Business Loan,7167.05
+Business Expansion/Startup,279465.45,24.99,7,Business Loan,43317.8
+Business Expansion/Startup,134841.37,24.35,64,Education Loan,3781.66
+Vehicle Purchase,360475.24,6.75,23,Education Loan,16752.51
+Vehicle Purchase,347154.31,10.49,110,Auto Loan,4925.58
+Home Renovation/Improvement,16591.97,18.28,13,Education Loan,1416.51
+Home Renovation/Improvement,465201.02,21.32,13,Personal Loan,40391.73
+Wedding/Special Event,282925.64,13.77,41,Secured Loan,8689.53
+Other,207876.57,20.89,72,Personal Loan,5087.05
+Education,483554.2,10.78,80,Auto Loan,8500.31
+Education,375693.82,8.58,30,Unsecured Loan,13958.76
+Education,434859.88,18.19,56,Unsecured Loan,11577.35
+Medical Expenses,462104.58,22.61,81,Auto Loan,11169.38
+Debt Consolidation,325686.32,20.43,36,Personal Loan,12175.15
+Business Expansion/Startup,75387.8,18.34,40,Auto Loan,2533.05
+Wedding/Special Event,126595.41,12.98,92,Auto Loan,2179.28
+Business Expansion/Startup,396835.93,16.15,29,Business Loan,16618.36
+Medical Expenses,495836.26,5.71,75,Business Loan,7876.4
+Other,354965.98,8.06,115,Personal Loan,4440.57
+Medical Expenses,292536.07,16.13,40,Auto Loan,9502.71
+Education,242352.87,24.15,103,Education Loan,5596.12
+Medical Expenses,364719.19,7.88,46,Unsecured Loan,9212.18
+Debt Consolidation,80671.62,13.83,47,Education Loan,2232.69
+Other,109641.83,22.45,99,Auto Loan,2440.79
+Business Expansion/Startup,485076.14,11.96,97,Auto Loan,7824.68
+Home Renovation/Improvement,362536.61,12.06,110,Business Loan,5461.5
+Debt Consolidation,328593.95,17.26,38,Personal Loan,11285.08
+Wedding/Special Event,104833.6,18.02,51,Education Loan,2956.86
+Business Expansion/Startup,96262.76,19.78,48,Secured Loan,2918.04
+Wedding/Special Event,498651.02,10.82,6,Personal Loan,85750.89
+Education,32904.17,9.08,62,Personal Loan,666.87
+Vehicle Purchase,79754.33,19.49,68,Auto Loan,1945.99
+Home Renovation/Improvement,315321.95,13.34,110,Auto Loan,4981.91
+Other,250320.19,5.87,25,Mortgage,10661.96
+Medical Expenses,441459.33,14.64,64,Secured Loan,9977.56
+Debt Consolidation,89815.87,14.76,85,Unsecured Loan,1709.49
+Medical Expenses,252620.15,14.46,67,Education Loan,5516.58
+Home Renovation/Improvement,95036.83,12.24,29,Unsecured Loan,3802.24
+Vehicle Purchase,485848.94,13.37,85,Unsecured Loan,8872.93
+Home Renovation/Improvement,257996.43,9.31,71,Unsecured Loan,4739.71
+Education,87698.96,5.89,44,Secured Loan,2221.0
+Debt Consolidation,150608.14,14.98,67,Education Loan,3330.68
+Home Renovation/Improvement,165152.62,13.97,58,Mortgage,3932.09
+Medical Expenses,265338.17,14.03,50,Personal Loan,7038.26
+Debt Consolidation,70460.64,8.21,58,Secured Loan,1475.87
+Home Renovation/Improvement,348789.03,18.05,55,Mortgage,9367.4
+Wedding/Special Event,301778.61,13.92,58,Unsecured Loan,7177.21
+Debt Consolidation,103378.96,14.16,83,Auto Loan,1960.25
+Debt Consolidation,374850.4,19.29,102,Secured Loan,7500.22
+Education,207450.93,20.1,55,Secured Loan,5801.68
+Education,123157.79,8.2,67,Education Loan,2297.13
+Debt Consolidation,47919.74,23.96,49,Mortgage,1542.14
+Debt Consolidation,225459.56,7.06,110,Personal Loan,2789.72
+Business Expansion/Startup,137841.59,16.48,101,Auto Loan,2531.38
+Home Renovation/Improvement,272818.79,21.7,64,Education Loan,7229.49
+Home Renovation/Improvement,362376.34,9.79,7,Secured Loan,53471.14
+Wedding/Special Event,58057.9,8.04,69,Mortgage,1053.61
+Business Expansion/Startup,283738.84,5.07,74,Personal Loan,4472.92
+Business Expansion/Startup,84901.07,5.07,116,Unsecured Loan,927.37
+Wedding/Special Event,19617.49,6.02,42,Personal Loan,519.18
+Wedding/Special Event,291026.58,6.77,47,Personal Loan,7066.58
+Business Expansion/Startup,313094.56,24.91,62,Personal Loan,9023.77
+Other,311087.01,11.72,70,Mortgage,6155.85
+Medical Expenses,447535.33,17.48,52,Secured Loan,12333.26
+Debt Consolidation,470084.89,13.77,117,Secured Loan,7320.92
+Other,102877.69,7.02,20,Unsecured Loan,5465.68
+Medical Expenses,290567.96,9.66,76,Mortgage,5126.21
+Medical Expenses,267524.6,11.47,78,Mortgage,4881.4
+Wedding/Special Event,37877.78,14.83,31,Education Loan,1478.27
+Home Renovation/Improvement,312406.2,6.84,31,Personal Loan,11022.8
+Wedding/Special Event,62211.44,16.02,68,Auto Loan,1397.81
+Home Renovation/Improvement,76162.06,22.72,115,Personal Loan,1630.62
+Home Renovation/Improvement,113976.37,5.99,59,Personal Loan,2234.99
+Debt Consolidation,452138.35,11.44,13,Personal Loan,37144.88
+Education,494799.01,12.67,13,Personal Loan,40933.59
+Debt Consolidation,396455.32,20.98,84,Mortgage,9039.19
+Business Expansion/Startup,214716.68,17.47,80,Mortgage,4561.1
+Education,66798.3,6.43,94,Mortgage,906.41
+Other,123260.06,23.96,107,Auto Loan,2798.56
+Vehicle Purchase,214745.12,18.41,109,Auto Loan,4068.48
+Other,150228.38,10.9,50,Education Loan,3751.72
+Education,265641.12,18.66,71,Auto Loan,6205.58
+Debt Consolidation,371584.82,21.45,46,Mortgage,11917.14
+Medical Expenses,322316.92,13.66,67,Auto Loan,6902.23
+Wedding/Special Event,109425.05,21.02,19,Personal Loan,6820.49
+Medical Expenses,222475.76,22.62,61,Unsecured Loan,6167.99
+Education,93088.57,19.99,7,Education Loan,14199.12
+Education,7293.93,20.43,11,Unsecured Loan,732.72
+Home Renovation/Improvement,494987.05,19.42,105,Secured Loan,9832.8
+Wedding/Special Event,267541.19,13.7,116,Business Loan,4172.62
+Vehicle Purchase,106127.47,13.86,106,Unsecured Loan,1741.24
+Home Renovation/Improvement,221525.67,21.57,42,Secured Loan,7558.65
+Other,413881.49,19.13,118,Auto Loan,7805.45
+Other,403575.02,17.07,89,Unsecured Loan,8023.29
+Education,493610.93,21.05,29,Mortgage,21861.65
+Business Expansion/Startup,348345.13,8.53,116,Auto Loan,4419.38
+Education,99852.3,9.37,57,Auto Loan,2177.18
+Education,162108.1,19.47,79,Business Loan,3655.16
+Debt Consolidation,450518.11,16.35,68,Education Loan,10203.67
+Other,415828.24,21.67,57,Personal Loan,11743.05
+Debt Consolidation,363419.55,13.8,20,Secured Loan,20444.5
+Vehicle Purchase,239216.36,6.52,105,Auto Loan,2995.6
+Education,427304.14,5.23,66,Business Loan,7464.05
+Home Renovation/Improvement,89807.92,6.97,114,Mortgage,1079.39
+Home Renovation/Improvement,91457.94,17.19,37,Unsecured Loan,3201.76
+Home Renovation/Improvement,199531.07,7.98,26,Personal Loan,8382.25
+Vehicle Purchase,379265.35,15.36,59,Unsecured Loan,9197.34
+Business Expansion/Startup,163844.58,17.0,108,Secured Loan,2971.52
+Home Renovation/Improvement,429495.56,6.22,74,Secured Loan,7002.93
+Vehicle Purchase,423142.28,16.86,93,Business Loan,8179.88
+Wedding/Special Event,79468.47,6.07,107,Education Loan,963.56
+Home Renovation/Improvement,136558.38,6.75,77,Secured Loan,2190.1
+Vehicle Purchase,21979.51,8.19,12,Personal Loan,1913.89
+Debt Consolidation,452161.7,21.68,97,Auto Loan,9914.85
+Wedding/Special Event,193641.92,21.2,80,Auto Loan,4539.26
+Home Renovation/Improvement,197013.25,7.28,64,Unsecured Loan,3723.73
+Home Renovation/Improvement,40458.38,8.14,11,Mortgage,3829.42
+Business Expansion/Startup,134156.3,19.92,119,Mortgage,2592.46
+Debt Consolidation,475340.69,22.82,100,Education Loan,10659.79
+Vehicle Purchase,172772.33,7.7,108,Education Loan,2222.5
+Other,102131.72,22.29,55,Secured Loan,2980.04
+Medical Expenses,490820.71,18.75,31,Auto Loan,20096.83
+Business Expansion/Startup,34780.83,13.55,53,Auto Loan,875.67
+Business Expansion/Startup,347959.68,11.99,104,Education Loan,5395.16
+Medical Expenses,104193.88,24.9,103,Personal Loan,2458.49
+Home Renovation/Improvement,88742.3,20.33,62,Unsecured Loan,2323.34
+Education,288344.62,6.71,94,Secured Loan,3952.33
+Business Expansion/Startup,81110.58,21.9,91,Personal Loan,1833.97
+Education,326806.3,23.72,59,Business Loan,9431.88
+Wedding/Special Event,473774.21,18.16,61,Education Loan,11950.22
+Education,358070.06,8.92,25,Mortgage,15747.84
+Wedding/Special Event,126886.3,5.22,20,Unsecured Loan,6638.07
+Business Expansion/Startup,197766.32,13.9,63,Business Loan,4440.0
+Debt Consolidation,101271.78,21.56,38,Unsecured Loan,3700.5
+Business Expansion/Startup,217284.27,15.93,30,Secured Loan,8827.85
+Wedding/Special Event,335772.69,24.82,84,Mortgage,8460.35
+Debt Consolidation,193175.2,15.74,40,Personal Loan,6237.46
+Home Renovation/Improvement,222884.77,13.9,15,Education Loan,16272.9
+Business Expansion/Startup,170004.85,8.57,33,Auto Loan,5800.83
+Home Renovation/Improvement,140232.41,21.19,93,Auto Loan,3081.25
+Home Renovation/Improvement,248371.82,10.39,108,Auto Loan,3549.42
+Wedding/Special Event,354255.36,10.5,15,Unsecured Loan,25303.81
+Education,484423.31,19.63,17,Auto Loan,32872.03
+Wedding/Special Event,15491.61,21.97,55,Unsecured Loan,449.25
+Wedding/Special Event,495491.39,5.44,114,Education Loan,5575.47
+Medical Expenses,64679.25,17.89,104,Personal Loan,1227.72
+Business Expansion/Startup,364457.8,24.98,55,Personal Loan,11190.18
+Education,351900.63,17.44,119,Mortgage,6233.9
+Business Expansion/Startup,435913.01,17.36,11,Secured Loan,43150.51
+Education,400938.59,10.7,67,Secured Loan,7974.47
+Medical Expenses,212145.19,23.32,56,Personal Loan,6249.66
+Wedding/Special Event,146624.46,17.62,59,Business Loan,3732.26
+Medical Expenses,133714.81,8.14,58,Personal Loan,2796.32
+Vehicle Purchase,425156.02,19.19,76,Business Loan,9705.4
+Business Expansion/Startup,222331.52,22.27,101,Auto Loan,4889.37
+Other,40006.98,16.12,26,Mortgage,1833.26
+Education,127418.7,11.08,42,Mortgage,3673.77
+Home Renovation/Improvement,415816.66,11.81,89,Business Loan,7034.77
+Home Renovation/Improvement,201312.32,16.8,42,Education Loan,6372.18
+Other,27663.14,19.2,95,Auto Loan,568.44
+Vehicle Purchase,261027.97,20.55,91,Secured Loan,5681.9
+Medical Expenses,220189.28,23.51,104,Education Loan,4975.31
+Other,351638.05,17.93,33,Education Loan,13575.58
+Wedding/Special Event,295039.84,22.82,43,Business Loan,10106.42
+Medical Expenses,431948.38,6.17,46,Personal Loan,10568.39
+Wedding/Special Event,175209.6,14.6,18,Unsecured Loan,10897.46
+Business Expansion/Startup,325336.35,9.01,76,Secured Loan,5633.27
+Business Expansion/Startup,108425.03,18.95,53,Personal Loan,3035.12
+Vehicle Purchase,59888.23,19.5,6,Secured Loan,10556.69
+Wedding/Special Event,494561.44,9.18,60,Personal Loan,10309.54
+Other,477691.89,21.47,100,Secured Loan,10294.3
+Medical Expenses,202845.2,6.79,25,Unsecured Loan,8724.11
+Home Renovation/Improvement,316630.45,9.58,71,Auto Loan,5859.54
+Home Renovation/Improvement,302060.14,11.46,19,Personal Loan,17459.42
+Debt Consolidation,88238.39,6.76,92,Auto Loan,1231.66
+Home Renovation/Improvement,373386.71,20.92,107,Secured Loan,7724.87
+Medical Expenses,346581.51,11.12,8,Secured Loan,45148.68
+Education,279213.13,24.85,14,Mortgage,23178.69
+Vehicle Purchase,13771.66,15.74,110,Education Loan,237.21
+Wedding/Special Event,399727.51,14.96,102,Unsecured Loan,6946.25
+Education,199483.93,9.79,35,Education Loan,6575.0
+Education,19782.34,17.05,66,Mortgage,463.9
+Medical Expenses,81395.34,17.68,11,Unsecured Loan,8069.64
+Wedding/Special Event,193003.49,16.93,17,Education Loan,12848.52
+Home Renovation/Improvement,484761.08,8.42,73,Personal Loan,8508.59
+Wedding/Special Event,238235.55,22.26,15,Secured Loan,18340.27
+Debt Consolidation,27856.46,13.09,76,Education Loan,541.11
+Business Expansion/Startup,354350.55,9.77,63,Auto Loan,7212.27
+Debt Consolidation,438725.09,19.01,56,Unsecured Loan,11874.65
+Business Expansion/Startup,264612.46,13.17,84,Secured Loan,4838.31
+Wedding/Special Event,399318.95,9.47,101,Auto Loan,5751.21
+Business Expansion/Startup,442109.82,24.63,78,Secured Loan,11414.23
+Education,92947.35,15.27,79,Auto Loan,1872.25
+Wedding/Special Event,228705.41,15.41,103,Auto Loan,4015.92
+Business Expansion/Startup,404167.27,10.27,65,Education Loan,8132.89
+Education,349820.82,19.88,53,Secured Loan,9967.95
+Business Expansion/Startup,200387.16,24.71,60,Mortgage,5847.61
+Medical Expenses,380181.68,5.13,82,Auto Loan,5506.18
+Debt Consolidation,167029.35,18.84,10,Education Loan,18178.92
+Education,107845.86,10.14,74,Secured Loan,1966.16
+Home Renovation/Improvement,12549.89,13.33,117,Education Loan,192.18
+Home Renovation/Improvement,156905.29,19.42,33,Mortgage,6174.28
+Other,86729.62,17.62,63,Mortgage,2119.6
+Wedding/Special Event,178554.42,19.04,25,Unsecured Loan,8707.9
+Home Renovation/Improvement,24196.71,16.42,49,Unsecured Loan,680.97
+Vehicle Purchase,184286.88,8.35,26,Mortgage,7773.01
+Home Renovation/Improvement,373726.4,9.28,62,Unsecured Loan,7610.8
+Vehicle Purchase,422311.85,14.92,12,Personal Loan,38101.21
+Home Renovation/Improvement,26503.99,23.16,61,Auto Loan,743.05
+Debt Consolidation,372964.73,14.36,33,Business Loan,13746.65
+Education,105490.73,22.6,22,Unsecured Loan,5901.19
+Education,236104.63,18.21,115,Education Loan,4353.06
+Debt Consolidation,225990.55,10.12,68,Auto Loan,4380.52
+Business Expansion/Startup,66231.73,8.89,53,Business Loan,1515.57
+Wedding/Special Event,269203.49,18.52,12,Unsecured Loan,24747.24
+Business Expansion/Startup,455420.72,13.57,53,Auto Loan,11470.64
+Other,136768.54,24.74,50,Mortgage,4409.03
+Vehicle Purchase,12789.31,8.63,24,Education Loan,582.11
+Wedding/Special Event,203868.66,16.19,110,Auto Loan,3567.35
+Medical Expenses,100193.39,20.28,89,Secured Loan,2184.94
+Education,313058.23,11.37,67,Business Loan,6332.88
+Wedding/Special Event,270791.22,15.56,79,Mortgage,5498.33
+Home Renovation/Improvement,16906.21,19.3,101,Education Loan,339.71
+Other,342570.5,5.45,86,Secured Loan,4820.74
+Other,28202.45,13.02,103,Unsecured Loan,456.07
+Wedding/Special Event,75004.63,19.65,88,Personal Loan,1614.93
+Home Renovation/Improvement,32368.0,13.06,94,Auto Loan,551.71
+Home Renovation/Improvement,85534.17,9.62,38,Education Loan,2620.07
+Wedding/Special Event,225676.48,24.81,58,Education Loan,6715.01
+Home Renovation/Improvement,397949.95,10.85,74,Business Loan,7399.3
+Medical Expenses,225452.97,15.99,54,Auto Loan,5882.33
+Medical Expenses,45175.19,20.11,71,Mortgage,1092.89
+Medical Expenses,63147.21,15.7,90,Business Loan,1198.07
+Wedding/Special Event,185196.32,8.69,61,Auto Loan,3766.58
+Debt Consolidation,462818.59,13.26,49,Unsecured Loan,12282.83
+Home Renovation/Improvement,73521.21,12.69,23,Auto Loan,3617.85
+Wedding/Special Event,264453.71,20.86,26,Secured Loan,12729.08
+Medical Expenses,314698.53,5.57,62,Mortgage,5852.82
+Education,124131.41,21.54,42,Mortgage,4233.5
+Debt Consolidation,149810.36,21.08,31,Mortgage,6308.57
+Other,102605.46,7.76,35,Business Loan,3285.27
+Vehicle Purchase,343041.21,13.71,68,Personal Loan,7282.94
+Business Expansion/Startup,136155.22,7.05,42,Auto Loan,3667.64
+Vehicle Purchase,128932.17,17.95,39,Personal Loan,4387.47
+Medical Expenses,338341.21,21.58,65,Auto Loan,8868.85
+Other,134040.39,7.1,26,Secured Loan,5577.3
+Education,247792.12,22.42,104,Personal Loan,5420.14
+Home Renovation/Improvement,266467.34,12.62,100,Personal Loan,4319.8
+Wedding/Special Event,260770.06,12.25,12,Mortgage,23199.61
+Education,489740.35,22.92,55,Business Loan,14463.03
+Debt Consolidation,379545.85,8.35,68,Education Loan,7024.85
+Home Renovation/Improvement,209782.95,24.6,91,Education Loan,5106.13
+Medical Expenses,222512.98,19.43,101,Business Loan,4489.27
+Wedding/Special Event,228077.3,23.54,93,Personal Loan,5353.08
+Medical Expenses,214433.99,8.51,31,Personal Loan,7729.81
+Debt Consolidation,177752.98,7.73,16,Secured Loan,11727.62
+Wedding/Special Event,214488.43,14.56,107,Secured Loan,3590.32
+Medical Expenses,373763.94,19.7,101,Mortgage,7604.23
+Debt Consolidation,305662.92,22.21,20,Mortgage,18425.33
+Home Renovation/Improvement,406444.87,7.91,49,Business Loan,9733.43
+Medical Expenses,154643.43,6.94,26,Secured Loan,6423.35
+Education,180487.71,11.68,113,Business Loan,2640.5
+Education,251586.7,20.87,45,Secured Loan,8107.16
+Vehicle Purchase,184399.4,22.62,96,Business Loan,4170.28
+Vehicle Purchase,230734.88,8.58,31,Business Loan,8324.85
+Medical Expenses,436286.16,24.09,23,Education Loan,23870.46
+Vehicle Purchase,379153.09,5.99,28,Business Loan,14543.23
+Vehicle Purchase,488086.37,13.25,24,Secured Loan,23261.87
+Debt Consolidation,13286.71,9.35,33,Mortgage,458.16
+Vehicle Purchase,450374.85,18.7,37,Personal Loan,16108.87
+Vehicle Purchase,146188.1,14.67,22,Mortgage,7618.79
+Vehicle Purchase,456093.04,21.83,42,Personal Loan,15624.98
+Other,392120.03,5.93,90,Unsecured Loan,5407.91
+Wedding/Special Event,407102.28,14.14,76,Secured Loan,8137.9
+Wedding/Special Event,267004.17,24.74,64,Auto Loan,7549.92
+Education,153959.7,20.56,106,Personal Loan,3159.75
+Debt Consolidation,382542.34,19.47,96,Mortgage,7889.51
+Medical Expenses,274314.07,24.06,16,Personal Loan,20211.27
+Vehicle Purchase,380348.79,10.66,63,Business Loan,7909.52
+Other,19326.49,19.98,77,Mortgage,447.18
+Home Renovation/Improvement,162984.4,7.15,98,Auto Loan,2200.46
+Debt Consolidation,448050.48,8.87,69,Education Loan,8313.02
+Other,6009.51,10.39,32,Education Loan,215.82
+Education,258765.52,15.46,116,Personal Loan,4310.08
+Other,358904.37,14.27,74,Education Loan,7320.06
+Education,410261.84,24.69,77,Education Loan,10663.67
+Medical Expenses,178211.42,16.56,44,Mortgage,5430.65
+Other,437091.7,13.28,37,Business Loan,14460.81
+Business Expansion/Startup,317496.16,23.9,16,Education Loan,23368.2
+Wedding/Special Event,47451.29,14.03,92,Personal Loan,844.7
+Debt Consolidation,209491.68,6.3,70,Secured Loan,3584.02
+Business Expansion/Startup,375372.51,17.77,56,Business Loan,9908.99
+Debt Consolidation,276081.12,14.24,91,Auto Loan,4977.51
+Debt Consolidation,64353.67,7.75,6,Auto Loan,10969.36
+Medical Expenses,360750.59,19.0,64,Business Loan,9007.86
+Wedding/Special Event,325722.92,19.42,88,Auto Loan,6967.78
+Wedding/Special Event,442992.47,24.21,102,Secured Loan,10277.23
+Other,254568.02,12.34,56,Unsecured Loan,6002.4
+Other,171487.31,20.88,98,Unsecured Loan,3658.6
+Other,429534.11,6.53,15,Unsecured Loan,29897.99
+Debt Consolidation,350994.78,22.7,7,Auto Loan,54007.28
+Debt Consolidation,71649.98,9.42,82,Secured Loan,1188.28
+Wedding/Special Event,5744.45,18.27,82,Business Loan,123.12
+Debt Consolidation,485403.15,8.4,37,Mortgage,14936.78
+Education,311789.29,24.26,53,Personal Loan,9640.79
+Education,189972.46,20.66,85,Mortgage,4271.76
+Business Expansion/Startup,255821.23,7.83,88,Personal Loan,3830.33
+Education,234587.66,8.19,113,Business Loan,2985.16
+Medical Expenses,113488.47,10.96,101,Business Loan,1725.26
+Wedding/Special Event,116756.55,23.59,100,Education Loan,2677.4
+Business Expansion/Startup,334183.6,18.89,49,Personal Loan,9836.2
+Home Renovation/Improvement,11749.56,6.68,12,Education Loan,1014.92
+Other,417162.28,22.0,34,Personal Loan,16596.79
+Education,467819.53,15.47,48,Auto Loan,13131.5
+Debt Consolidation,83107.87,22.67,74,Secured Loan,2094.34
+Home Renovation/Improvement,319166.31,9.33,74,Personal Loan,5688.44
+Education,218788.33,12.47,105,Secured Loan,3433.03
+Medical Expenses,209558.06,16.28,47,Auto Loan,6059.42
+Medical Expenses,86765.82,19.54,104,Business Loan,1736.54
+Vehicle Purchase,71210.09,20.03,112,Personal Loan,1409.32
+Home Renovation/Improvement,301888.0,17.56,27,Business Loan,13615.49
+Vehicle Purchase,423618.12,11.02,68,Education Loan,8403.59
+Vehicle Purchase,135822.21,12.67,6,Mortgage,23480.89
+Medical Expenses,457222.23,24.93,31,Mortgage,20152.36
+Wedding/Special Event,188610.83,19.89,76,Secured Loan,4382.67
+Debt Consolidation,170793.88,10.07,97,Business Loan,2580.53
+Wedding/Special Event,165778.33,12.42,91,Mortgage,2821.11
+Debt Consolidation,291429.28,18.83,80,Education Loan,6420.71
+Medical Expenses,348343.23,9.42,88,Business Loan,5496.79
+Medical Expenses,171933.25,9.4,81,Business Loan,2874.81
+Other,220224.33,21.45,100,Secured Loan,4743.02
+Other,91771.6,16.6,34,Auto Loan,3401.78
+Medical Expenses,478234.63,21.43,60,Business Loan,13053.8
+Vehicle Purchase,438734.58,7.96,28,Unsecured Loan,17221.01
+Business Expansion/Startup,409458.26,7.41,20,Education Loan,21826.2
+Wedding/Special Event,460432.08,18.85,101,Education Loan,9122.55
+Medical Expenses,241015.97,24.08,98,Personal Loan,5641.37
+Education,227571.98,23.45,106,Business Loan,5103.15
+Other,262918.27,24.04,105,Education Loan,6016.77
+Debt Consolidation,192094.77,7.95,59,Unsecured Loan,3944.14
+Education,89653.27,23.38,100,Mortgage,2043.47
+Business Expansion/Startup,408442.46,7.04,81,Business Loan,6349.63
+Wedding/Special Event,366114.78,17.36,88,Auto Loan,7382.21
+Other,176816.33,21.21,113,Mortgage,3625.95
+Vehicle Purchase,458682.82,7.99,108,Auto Loan,5969.08
+Education,213024.92,23.16,97,Education Loan,4874.59
+Vehicle Purchase,240016.62,10.68,78,Business Loan,4280.94
+Education,438182.55,20.52,96,Business Loan,9323.92
+Debt Consolidation,188492.34,6.94,14,Auto Loan,14055.02
+Debt Consolidation,369416.51,12.98,17,Personal Loan,23906.49
+Debt Consolidation,98722.66,21.9,54,Mortgage,2890.02
+Vehicle Purchase,275993.55,11.92,107,Auto Loan,4200.17
+Business Expansion/Startup,82164.38,18.82,59,Education Loan,2145.05
+Medical Expenses,295262.23,24.84,88,Personal Loan,7317.95
+Debt Consolidation,319803.3,15.79,19,Mortgage,19133.3
+Education,6090.36,16.4,113,Secured Loan,106.13
+Medical Expenses,229857.78,18.26,27,Unsecured Loan,10445.22
+Debt Consolidation,205118.18,15.42,79,Education Loan,4148.85
+Wedding/Special Event,363187.31,21.4,8,Education Loan,49116.74
+Vehicle Purchase,145272.08,23.75,71,Secured Loan,3826.97
+Debt Consolidation,341991.15,6.34,27,Business Loan,13624.61
+Business Expansion/Startup,435826.76,13.27,76,Business Loan,8507.81
+Debt Consolidation,263701.11,20.12,48,Personal Loan,8041.39
+Vehicle Purchase,408396.13,13.58,30,Mortgage,16130.7
+Education,364144.06,16.34,17,Business Loan,24139.88
+Business Expansion/Startup,231217.84,6.76,111,Auto Loan,2807.42
+Other,30886.23,5.53,66,Education Loan,543.81
+Other,479834.82,5.44,54,Education Loan,10037.81
+Wedding/Special Event,355783.33,13.07,49,Personal Loan,9408.5
+Vehicle Purchase,123305.4,24.19,83,Education Loan,3071.74
+Home Renovation/Improvement,377705.15,15.8,65,Mortgage,8683.77
+Debt Consolidation,36006.83,6.89,90,Personal Loan,513.43
+Medical Expenses,46204.46,21.28,65,Unsecured Loan,1203.17
+Debt Consolidation,131528.59,17.07,8,Business Loan,17510.85
+Medical Expenses,105485.61,16.14,33,Business Loan,3979.33
+Education,110711.63,19.12,31,Mortgage,4553.47
+Debt Consolidation,484636.83,5.15,101,Business Loan,5923.36
+Debt Consolidation,92053.16,5.7,20,Secured Loan,4835.66
+Debt Consolidation,322479.5,23.31,38,Personal Loan,12078.82
+Other,161627.74,6.46,58,Business Loan,3251.77
+Education,112599.67,16.38,113,Education Loan,1960.69
+Vehicle Purchase,35172.7,21.49,112,Education Loan,729.85
+Vehicle Purchase,341391.0,15.2,50,Business Loan,9258.42
+Education,92592.78,14.54,54,Personal Loan,2346.39
+Vehicle Purchase,325283.82,5.01,53,Unsecured Loan,6854.23
+Wedding/Special Event,456547.43,5.45,103,Mortgage,5559.66
+Other,268890.0,18.19,109,Unsecured Loan,5057.02
+Wedding/Special Event,495440.71,18.59,114,Unsecured Loan,9284.57
+Other,13468.69,23.47,95,Unsecured Loan,313.15
+Vehicle Purchase,22005.75,9.2,87,Mortgage,347.54
+Other,490726.69,21.47,48,Personal Loan,15320.02
+Business Expansion/Startup,467840.64,6.64,7,Education Loan,68321.81
+Debt Consolidation,176620.62,8.03,96,Secured Loan,2499.52
+Vehicle Purchase,163402.34,9.54,89,Secured Loan,2568.46
+Business Expansion/Startup,224653.86,5.36,50,Mortgage,5023.45
+Vehicle Purchase,495585.16,10.4,41,Personal Loan,14413.65
+Home Renovation/Improvement,454703.14,15.67,45,Education Loan,13426.43
+Home Renovation/Improvement,70910.44,10.54,55,Mortgage,1631.22
+Business Expansion/Startup,247491.32,9.07,18,Mortgage,14757.85
+Other,153457.35,15.87,112,Unsecured Loan,2634.25
+Other,378429.71,16.43,76,Unsecured Loan,8042.51
+Business Expansion/Startup,312184.85,10.97,14,Education Loan,23857.92
+Medical Expenses,418433.79,8.63,102,Auto Loan,5803.33
+Vehicle Purchase,398123.19,15.39,23,Unsecured Loan,20097.97
+Wedding/Special Event,230625.61,19.73,28,Secured Loan,10343.88
+Education,387589.54,13.9,17,Personal Loan,25249.17
+Education,388103.22,7.03,104,Secured Loan,4993.9
+Debt Consolidation,369713.62,10.33,103,Personal Loan,5427.35
+Debt Consolidation,161349.32,15.45,40,Business Loan,5186.53
+Vehicle Purchase,231586.76,14.27,93,Business Loan,4129.3
+Vehicle Purchase,62705.36,19.1,100,Auto Loan,1257.25
+Home Renovation/Improvement,23595.47,5.71,62,Secured Loan,440.36
+Home Renovation/Improvement,154761.5,20.81,70,Mortgage,3834.79
+Vehicle Purchase,427634.0,5.34,73,Auto Loan,6873.82
+Debt Consolidation,492267.28,19.28,93,Personal Loan,10233.13
+Home Renovation/Improvement,134785.88,5.22,99,Personal Loan,1678.52
+Vehicle Purchase,59892.16,9.61,95,Secured Loan,902.78
+Other,147342.11,20.13,56,Mortgage,4078.11
+Wedding/Special Event,386414.54,5.19,48,Mortgage,8932.15
+Vehicle Purchase,175170.43,23.93,96,Education Loan,4110.77
+Debt Consolidation,29552.21,17.34,32,Mortgage,1159.96
+Education,392454.85,15.74,97,Business Loan,7174.58
+Home Renovation/Improvement,275997.88,16.56,18,Personal Loan,17421.38
+Education,263929.03,14.94,36,Personal Loan,9141.43
+Debt Consolidation,120147.61,16.6,81,Auto Loan,2475.6
+Medical Expenses,31750.74,9.72,35,Personal Loan,1045.47
+Home Renovation/Improvement,471153.67,13.13,50,Business Loan,12284.74
+Other,386880.77,10.6,60,Secured Loan,8334.75
+Wedding/Special Event,91985.23,21.64,84,Mortgage,2134.44
+Business Expansion/Startup,396210.52,21.49,17,Education Loan,27240.46
+Home Renovation/Improvement,149682.59,19.27,88,Education Loan,3188.41
+Home Renovation/Improvement,425222.9,16.92,72,Secured Loan,9440.59
+Medical Expenses,328075.17,23.67,82,Business Loan,8104.83
+Education,257762.69,19.17,93,Unsecured Loan,5340.96
+Education,384960.2,10.96,101,Auto Loan,5852.2
+Wedding/Special Event,366340.38,12.47,53,Personal Loan,9024.34
+Vehicle Purchase,430155.08,19.85,9,Secured Loan,51834.5
+Wedding/Special Event,76552.49,18.12,76,Business Loan,1700.25
+Education,479964.43,19.14,108,Unsecured Loan,9347.81
+Home Renovation/Improvement,309981.21,14.1,116,Auto Loan,4908.29
+Debt Consolidation,174650.68,7.01,96,Secured Loan,2382.01
+Business Expansion/Startup,101496.39,19.38,52,Secured Loan,2899.66
+Debt Consolidation,59301.88,24.51,64,Personal Loan,1668.75
+Medical Expenses,483371.94,7.07,27,Secured Loan,19416.91
+Vehicle Purchase,219726.19,9.09,65,Unsecured Loan,4293.17
+Education,386513.93,10.28,48,Personal Loan,9855.05
+Vehicle Purchase,462285.19,19.97,75,Personal Loan,10835.58
+Other,284553.11,14.5,46,Auto Loan,8099.92
+Debt Consolidation,457447.17,21.73,62,Secured Loan,12339.27
+Other,18030.91,16.88,9,Mortgage,2146.97
+Education,463728.6,14.78,67,Mortgage,10205.72
+Other,453907.79,9.23,64,Mortgage,9007.31
+Medical Expenses,463495.28,23.31,52,Unsecured Loan,14239.73
+Debt Consolidation,180956.99,19.67,101,Business Loan,3678.15
+Debt Consolidation,391003.0,13.37,17,Unsecured Loan,25374.62
+Home Renovation/Improvement,97154.14,21.99,77,Business Loan,2364.43
+Vehicle Purchase,473254.93,15.21,103,Personal Loan,8254.03
+Debt Consolidation,449761.2,21.26,116,Mortgage,9163.15
+Vehicle Purchase,402204.72,9.73,41,Unsecured Loan,11570.01
+Medical Expenses,145277.5,8.54,82,Education Loan,2344.74
+Wedding/Special Event,426575.48,19.04,56,Auto Loan,11552.76
+Business Expansion/Startup,237627.19,21.45,76,Business Loan,5741.14
+Vehicle Purchase,108399.35,7.06,53,Secured Loan,2386.65
+Business Expansion/Startup,120007.6,17.86,28,Unsecured Loan,5272.25
+Wedding/Special Event,394827.02,13.78,107,Auto Loan,6428.59
+Vehicle Purchase,166881.99,22.51,22,Auto Loan,9328.05
+Debt Consolidation,60859.95,8.08,22,Personal Loan,2985.6
+Wedding/Special Event,237250.42,6.19,70,Education Loan,4046.59
+Home Renovation/Improvement,383636.77,8.76,35,Education Loan,12460.63
+Other,15291.04,20.03,57,Auto Loan,417.89
+Business Expansion/Startup,323503.68,10.24,50,Mortgage,7975.37
+Business Expansion/Startup,25202.07,7.17,55,Education Loan,538.98
+Debt Consolidation,337442.77,21.62,53,Business Loan,9936.29
+Vehicle Purchase,50113.55,6.76,105,Secured Loan,633.56
+Business Expansion/Startup,168225.49,21.1,45,Education Loan,5441.49
+Debt Consolidation,65005.86,22.03,30,Business Loan,2837.4
+Vehicle Purchase,382574.73,5.41,13,Auto Loan,30365.9
+Medical Expenses,102247.17,9.56,67,Unsecured Loan,1975.35
+Home Renovation/Improvement,446084.4,19.77,79,Business Loan,10137.13
+Medical Expenses,363612.68,22.49,71,Secured Loan,9304.35
+Education,72382.96,17.8,98,Secured Loan,1405.75
+Vehicle Purchase,413294.01,7.39,119,Secured Loan,4909.94
+Debt Consolidation,153959.7,17.29,19,Auto Loan,9320.71
+Business Expansion/Startup,463980.04,5.38,64,Education Loan,8355.58
+Home Renovation/Improvement,479123.0,15.41,71,Mortgage,10326.09
+Business Expansion/Startup,454462.17,13.24,31,Education Loan,17389.78
+Other,275706.83,18.97,71,Unsecured Loan,6489.39
+Home Renovation/Improvement,358124.27,24.56,41,Education Loan,12990.26
+Home Renovation/Improvement,137759.1,13.41,59,Business Loan,3201.17
+Home Renovation/Improvement,415139.46,9.21,92,Auto Loan,6308.02
+Medical Expenses,12605.02,23.69,89,Unsecured Loan,301.83
+Debt Consolidation,18088.91,16.4,93,Unsecured Loan,344.78
+Education,252416.48,15.44,48,Mortgage,7081.37
+Vehicle Purchase,185294.34,23.93,51,Auto Loan,5821.83
+Debt Consolidation,18370.46,9.11,102,Auto Loan,259.39
+Wedding/Special Event,457654.75,17.95,28,Auto Loan,20126.12
+Home Renovation/Improvement,391685.54,10.91,107,Mortgage,5740.75
+Wedding/Special Event,341728.45,8.34,103,Education Loan,4656.78
+Home Renovation/Improvement,455438.89,10.75,65,Secured Loan,9274.08
+Vehicle Purchase,457490.08,19.16,47,Secured Loan,13912.69
+Home Renovation/Improvement,47547.01,21.33,119,Education Loan,963.54
+Other,181479.41,8.11,27,Unsecured Loan,7375.97
+Debt Consolidation,287712.2,7.61,107,Education Loan,3711.78
+Home Renovation/Improvement,142656.31,6.17,18,Personal Loan,8318.1
+Wedding/Special Event,205608.6,13.26,115,Business Loan,3166.89
+Education,38128.74,11.99,22,Personal Loan,1939.19
+Medical Expenses,284449.78,24.98,85,Business Loan,7164.79
+Debt Consolidation,201267.81,6.62,61,Education Loan,3894.72
+Education,251517.49,10.03,21,Unsecured Loan,13108.75
+Business Expansion/Startup,45854.26,7.22,76,Auto Loan,753.55
+Education,482107.9,9.22,95,Secured Loan,7168.89
+Education,138247.98,17.5,74,Auto Loan,3066.51
+Wedding/Special Event,18362.13,18.24,77,Secured Loan,406.26
+Education,361759.72,9.72,70,Personal Loan,6791.19
+Debt Consolidation,336655.03,6.38,65,Mortgage,6139.31
+Vehicle Purchase,318029.21,24.89,31,Personal Loan,14010.77
+Other,253854.35,17.05,6,Education Loan,44437.79
+Other,155184.58,16.78,106,Secured Loan,2816.25
+Business Expansion/Startup,236894.7,11.26,8,Auto Loan,30875.82
+Home Renovation/Improvement,36979.13,19.5,36,Personal Loan,1364.87
+Vehicle Purchase,26117.27,22.17,114,Mortgage,550.86
+Wedding/Special Event,138175.38,17.46,96,Unsecured Loan,2680.21
+Medical Expenses,320603.34,11.93,27,Secured Loan,13597.65
+Wedding/Special Event,240139.62,6.54,94,Personal Loan,3271.49
+Education,22626.91,20.07,102,Auto Loan,463.87
+Medical Expenses,371691.35,24.49,55,Auto Loan,11307.91
+Debt Consolidation,35655.85,21.63,16,Education Loan,2585.15
+Home Renovation/Improvement,373468.71,11.57,51,Auto Loan,9304.86
+Home Renovation/Improvement,404785.27,19.41,26,Business Loan,19194.91
+Other,311699.53,10.15,37,Auto Loan,9846.48
+Home Renovation/Improvement,274223.46,12.17,94,Business Loan,4539.18
+Vehicle Purchase,404563.12,21.29,104,Education Loan,8550.71
+Education,255542.75,7.89,22,Personal Loan,12514.0
+Wedding/Special Event,25625.69,12.06,25,Auto Loan,1164.3
+Education,275575.66,6.47,22,Secured Loan,13317.45
+Vehicle Purchase,356325.78,24.41,62,Unsecured Loan,10164.82
+Home Renovation/Improvement,43011.68,5.03,67,Education Loan,737.66
+Business Expansion/Startup,186695.73,15.74,70,Unsecured Loan,4092.57
+Wedding/Special Event,157234.46,17.71,110,Auto Loan,2899.12
+Education,400084.78,6.42,35,Mortgage,12565.06
+Medical Expenses,47207.4,11.07,75,Business Loan,874.87
+Debt Consolidation,214848.06,24.75,109,Unsecured Loan,4967.98
+Wedding/Special Event,65395.17,22.8,52,Auto Loan,1990.52
+Debt Consolidation,187415.29,11.14,79,Secured Loan,3358.17
+Education,447832.83,24.26,102,Unsecured Loan,10404.5
+Other,450665.26,15.79,101,Education Loan,8090.58
+Debt Consolidation,231747.63,5.73,16,Education Loan,15079.11
+Other,157418.88,12.93,51,Mortgage,4028.22
+Wedding/Special Event,350748.13,14.68,97,Unsecured Loan,6195.71
+Vehicle Purchase,72722.68,21.35,14,Personal Loan,5914.07
+Other,351355.78,14.97,103,Personal Loan,6078.27
+Home Renovation/Improvement,206849.11,5.64,116,Personal Loan,2317.32
+Home Renovation/Improvement,261487.9,20.51,70,Business Loan,6433.81
+Vehicle Purchase,272360.74,10.67,8,Mortgage,35421.39
+Debt Consolidation,61062.86,9.73,99,Education Loan,899.49
+Business Expansion/Startup,138598.71,18.03,66,Business Loan,3325.05
+Vehicle Purchase,152372.73,16.4,94,Business Loan,2888.89
+Wedding/Special Event,375889.18,24.26,104,Mortgage,8682.2
+Home Renovation/Improvement,33279.95,18.25,23,Personal Loan,1725.61
+Other,340590.31,9.33,26,Education Loan,14518.94
+Education,292226.81,22.28,76,Education Loan,7205.98
+Vehicle Purchase,423970.46,6.8,99,Auto Loan,5607.32
+Vehicle Purchase,82282.31,14.12,6,Personal Loan,14284.0
+Home Renovation/Improvement,281204.01,9.87,39,Secured Loan,8457.89
+Home Renovation/Improvement,431002.09,16.25,93,Unsecured Loan,8177.1
+Vehicle Purchase,340436.77,18.51,37,Secured Loan,12143.92
+Home Renovation/Improvement,236014.39,6.03,104,Auto Loan,2919.34
+Vehicle Purchase,18679.12,9.4,70,Auto Loan,347.68
+Home Renovation/Improvement,221506.09,19.52,118,Secured Loan,4233.88
+Other,128733.85,18.12,75,Business Loan,2879.68
+Debt Consolidation,211391.92,9.9,90,Auto Loan,3336.97
+Other,77587.46,12.37,57,Education Loan,1806.83
+Education,360106.48,13.94,30,Business Loan,14285.3
+Business Expansion/Startup,78464.74,14.27,97,Business Loan,1367.52
+Business Expansion/Startup,390733.64,18.35,17,Business Loan,26275.42
+Other,147836.01,9.03,27,Business Loan,6070.97
+Other,103841.84,9.64,96,Auto Loan,1556.0
+Education,450328.8,18.55,68,Education Loan,10748.64
+Debt Consolidation,47752.44,24.91,52,Mortgage,1510.06
+Business Expansion/Startup,178416.76,14.73,25,Business Loan,8330.99
+Medical Expenses,285979.3,19.67,108,Auto Loan,5666.53
+Other,373281.25,6.19,37,Auto Loan,11107.96
+Education,6156.13,12.19,22,Education Loan,313.67
+Medical Expenses,166839.67,21.42,17,Personal Loan,11465.01
+Other,398543.24,11.75,33,Auto Loan,14191.69
+Wedding/Special Event,404193.97,5.92,36,Unsecured Loan,12281.72
+Debt Consolidation,85137.41,8.09,19,Secured Loan,4789.09
+Other,18600.02,12.01,57,Auto Loan,429.78
+Vehicle Purchase,448569.7,12.0,27,Unsecured Loan,19039.78
+Education,269092.38,21.43,12,Secured Loan,25111.77
+Education,324585.98,24.28,53,Unsecured Loan,10040.15
+Education,287115.0,6.1,16,Secured Loan,18729.88
+Business Expansion/Startup,338454.45,22.68,105,Unsecured Loan,7438.29
+Other,156896.12,22.37,96,Education Loan,3523.02
+Business Expansion/Startup,14597.83,18.05,111,Education Loan,271.31
+Other,328713.93,7.09,94,Auto Loan,4567.52
+Business Expansion/Startup,201207.99,23.87,42,Personal Loan,7112.15
+Business Expansion/Startup,377281.74,18.03,27,Unsecured Loan,17102.14
+Wedding/Special Event,30685.39,5.11,15,Mortgage,2116.07
+Debt Consolidation,249434.68,20.51,96,Mortgage,5306.06
+Wedding/Special Event,272734.5,9.04,62,Secured Loan,5522.18
+Wedding/Special Event,157401.01,9.54,48,Secured Loan,3957.41
+Medical Expenses,162261.39,19.41,116,Business Loan,3107.75
+Debt Consolidation,231765.11,5.87,11,Personal Loan,21692.98
+Other,343358.91,5.34,82,Mortgage,5006.84
+Wedding/Special Event,176612.63,16.36,14,Personal Loan,13942.91
+Other,494407.94,7.53,14,Unsecured Loan,36999.38
+Debt Consolidation,194243.63,12.19,94,Personal Loan,3217.42
+Home Renovation/Improvement,14734.17,8.32,90,Secured Loan,220.62
+Business Expansion/Startup,424795.4,6.24,64,Business Loan,7820.13
+Debt Consolidation,343399.26,20.01,20,Unsecured Loan,20333.36
+Vehicle Purchase,153019.68,24.19,98,Education Loan,3592.79
+Debt Consolidation,484411.79,6.48,106,Business Loan,6013.93
+Education,62916.11,15.52,41,Secured Loan,1986.86
+Business Expansion/Startup,282744.09,21.33,17,Auto Loan,19417.53
+Wedding/Special Event,475688.04,23.21,119,Unsecured Loan,10249.27
+Medical Expenses,23677.33,10.54,109,Business Loan,338.43
+Debt Consolidation,243671.66,16.11,69,Personal Loan,5438.15
+Home Renovation/Improvement,226275.24,8.14,20,Business Loan,12136.83
+Debt Consolidation,263792.73,5.44,36,Auto Loan,7958.32
+Other,250576.05,17.46,83,Unsecured Loan,5219.67
+Home Renovation/Improvement,245637.94,11.84,13,Personal Loan,20225.88
+Other,243740.84,12.52,62,Auto Loan,5358.73
+Medical Expenses,202573.96,14.98,99,Personal Loan,3575.89
+Medical Expenses,41137.99,14.0,14,Personal Loan,3202.0
+Other,337449.62,12.82,55,Auto Loan,8145.3
+Home Renovation/Improvement,301552.07,24.48,74,Education Loan,7931.3
+Home Renovation/Improvement,165688.8,22.18,59,Mortgage,4635.94
+Medical Expenses,208899.84,15.61,8,Mortgage,27664.08
+Education,201310.38,17.83,70,Mortgage,4645.63
+Debt Consolidation,92988.79,20.88,95,Personal Loan,2007.99
+Debt Consolidation,410713.19,19.13,86,Business Loan,8807.65
+Vehicle Purchase,251516.38,7.82,71,Unsecured Loan,4436.31
+Medical Expenses,420437.88,18.95,31,Unsecured Loan,17256.72
+Education,95758.12,8.48,57,Personal Loan,2046.82
+Vehicle Purchase,405890.44,17.52,45,Secured Loan,12368.32
+Debt Consolidation,210504.91,18.63,35,Personal Loan,7841.18
+Education,239717.77,10.69,29,Mortgage,9416.36
+Wedding/Special Event,468161.58,21.59,6,Education Loan,83013.35
+Business Expansion/Startup,224822.41,24.1,57,Personal Loan,6658.92
+Business Expansion/Startup,463094.91,24.56,89,Auto Loan,11347.92
+Education,476371.68,12.22,81,Personal Loan,8664.65
+Business Expansion/Startup,490435.41,12.7,28,Unsecured Loan,20330.61
+Business Expansion/Startup,13739.42,5.83,108,Auto Loan,163.8
+Home Renovation/Improvement,462174.04,20.08,90,Secured Loan,9973.53
+Vehicle Purchase,59700.88,7.35,109,Auto Loan,752.36
+Other,85189.23,12.81,82,Unsecured Loan,1564.29
+Wedding/Special Event,497203.44,8.77,99,Personal Loan,7073.88
+Vehicle Purchase,415667.44,16.75,36,Auto Loan,14768.01
+Home Renovation/Improvement,195471.01,11.39,54,Business Loan,4643.19
+Education,30733.09,24.11,54,Auto Loan,937.81
+Vehicle Purchase,256850.97,8.67,91,Auto Loan,3861.19
+Medical Expenses,114583.43,20.0,34,Unsecured Loan,4441.94
+Home Renovation/Improvement,369035.68,16.92,43,Mortgage,11503.79
+Wedding/Special Event,175760.96,23.89,38,Business Loan,6637.14
+Business Expansion/Startup,15064.47,5.01,112,Unsecured Loan,168.67
+Business Expansion/Startup,261852.25,17.64,42,Mortgage,8400.29
+Wedding/Special Event,301636.9,6.68,102,Personal Loan,3883.81
+Medical Expenses,223654.27,22.4,96,Mortgage,5026.35
+Wedding/Special Event,41438.91,15.07,71,Business Loan,885.44
+Vehicle Purchase,185058.48,23.51,79,Business Loan,4624.11
+Education,368596.41,8.79,102,Auto Loan,5142.86
+Debt Consolidation,354443.43,24.03,90,Education Loan,8529.8
+Business Expansion/Startup,374236.06,23.0,86,Auto Loan,8914.75
+Debt Consolidation,249555.74,22.61,109,Secured Loan,5409.18
+Education,86190.24,24.57,80,Unsecured Loan,2199.36
+Medical Expenses,235666.41,11.13,42,Education Loan,6800.44
+Medical Expenses,491947.29,19.07,87,Secured Loan,10475.13
+Business Expansion/Startup,458009.3,17.03,118,Business Loan,8020.61
+Home Renovation/Improvement,454238.78,6.61,16,Mortgage,29737.42
+Home Renovation/Improvement,490584.28,10.78,59,Secured Loan,10748.71
+Wedding/Special Event,51227.28,24.2,105,Secured Loan,1177.83
+Debt Consolidation,68213.32,20.21,109,Education Loan,1370.84
+Business Expansion/Startup,354147.97,20.71,22,Unsecured Loan,19483.43
+Wedding/Special Event,388976.16,16.79,13,Unsecured Loan,32933.17
+Home Renovation/Improvement,340048.18,23.53,70,Auto Loan,8972.2
+Wedding/Special Event,165483.08,6.99,34,Mortgage,5379.13
+Home Renovation/Improvement,20894.77,22.61,100,Mortgage,465.71
+Other,290552.64,12.04,76,Unsecured Loan,5482.39
+Home Renovation/Improvement,404236.19,22.31,112,Education Loan,8609.26
+Business Expansion/Startup,489565.36,12.71,89,Mortgage,8521.84
+Debt Consolidation,174842.05,10.02,111,Business Loan,2422.42
+Vehicle Purchase,194213.48,8.13,22,Education Loan,9531.94
+Education,265857.05,5.67,30,Auto Loan,9525.71
+Other,223121.79,16.41,19,Secured Loan,13414.5
+Wedding/Special Event,311259.2,24.38,28,Education Loan,14686.04
+Home Renovation/Improvement,351671.44,23.17,21,Business Loan,20529.15
+Wedding/Special Event,484140.01,7.78,90,Personal Loan,7117.46
+Vehicle Purchase,190621.51,17.46,42,Business Loan,6097.69
+Wedding/Special Event,201244.11,21.89,104,Mortgage,4332.03
+Education,373035.63,20.84,68,Personal Loan,9390.6
+Business Expansion/Startup,354781.99,9.63,21,Personal Loan,18425.45
+Vehicle Purchase,490625.92,17.66,89,Auto Loan,9924.46
+Other,102112.83,10.7,84,Secured Loan,1732.36
+Debt Consolidation,94992.38,22.46,92,Auto Loan,2172.43
+Vehicle Purchase,194562.54,6.33,13,Secured Loan,15524.8
+Debt Consolidation,208665.29,24.85,52,Secured Loan,6591.48
+Home Renovation/Improvement,331453.31,16.85,62,Auto Loan,8041.75
+Other,129342.03,5.19,51,Business Loan,2831.55
+Vehicle Purchase,251703.78,6.29,86,Secured Loan,3643.39
+Debt Consolidation,299905.16,7.2,23,Education Loan,13998.77
+Other,315739.18,21.42,46,Mortgage,10121.03
+Education,16373.93,12.76,117,Auto Loan,245.26
+Home Renovation/Improvement,97748.55,17.73,112,Education Loan,1790.65
+Education,220788.84,17.57,90,Mortgage,4430.24
+Medical Expenses,265369.32,13.19,45,Business Loan,7506.97
+Vehicle Purchase,184608.2,22.52,117,Unsecured Loan,3908.34
+Other,289814.49,24.04,57,Business Loan,8573.91
+Medical Expenses,48883.3,21.2,52,Mortgage,1444.79
+Education,332709.96,16.0,37,Business Loan,11450.49
+Debt Consolidation,31292.77,9.43,119,Mortgage,405.77
+Business Expansion/Startup,105324.51,16.41,86,Education Loan,2090.33
+Debt Consolidation,395009.82,22.47,67,Auto Loan,10396.09
+Other,296536.51,8.54,30,Education Loan,11012.24
+Business Expansion/Startup,287674.32,24.36,14,Personal Loan,23812.67
+Debt Consolidation,292477.66,19.61,45,Business Loan,9230.24
+Debt Consolidation,139831.23,6.17,115,Education Loan,1613.66
+Home Renovation/Improvement,453711.81,13.55,24,Personal Loan,21687.68
+Wedding/Special Event,278858.24,19.72,50,Personal Loan,8221.99
+Other,213161.01,14.36,106,Education Loan,3559.57
+Other,438184.04,20.63,73,Business Loan,10582.22
+Wedding/Special Event,385840.15,10.9,20,Education Loan,21184.64
+Business Expansion/Startup,147113.1,15.28,21,Business Loan,8027.94
+Wedding/Special Event,271998.88,6.4,109,Unsecured Loan,3297.08
+Education,493855.48,18.19,114,Education Loan,9128.73
+Other,359605.78,18.1,103,Secured Loan,6900.45
+Wedding/Special Event,410366.12,17.8,85,Auto Loan,8526.0
+Vehicle Purchase,362002.99,7.69,111,Mortgage,4567.58
+Education,400060.07,23.14,117,Mortgage,8639.11
+Vehicle Purchase,338808.67,15.68,83,Mortgage,6712.23
+Debt Consolidation,99955.43,11.21,110,Mortgage,1458.03
+Home Renovation/Improvement,310326.08,17.37,96,Auto Loan,6002.65
+Wedding/Special Event,131237.09,7.26,113,Auto Loan,1606.64
+Other,315465.37,7.55,27,Unsecured Loan,12741.02
+Medical Expenses,34949.57,6.66,9,Mortgage,3991.84
+Vehicle Purchase,392853.75,13.19,106,Education Loan,6293.49
+Home Renovation/Improvement,46472.11,9.0,110,Unsecured Loan,621.93
+Debt Consolidation,432803.42,8.52,89,Business Loan,6576.84
+Business Expansion/Startup,328766.72,7.41,119,Mortgage,3909.17
+Business Expansion/Startup,271564.63,5.47,94,Personal Loan,3558.47
+Debt Consolidation,285761.69,19.54,38,Education Loan,10144.2
+Wedding/Special Event,337055.97,17.74,32,Personal Loan,13296.35
+Debt Consolidation,180216.7,6.79,65,Secured Loan,3321.36
+Education,363677.0,11.97,64,Unsecured Loan,7715.34
+Debt Consolidation,216939.38,14.79,35,Education Loan,7668.51
+Vehicle Purchase,10077.98,9.79,106,Personal Loan,142.4
+Medical Expenses,37122.88,7.68,46,Auto Loan,934.19
+Vehicle Purchase,352617.04,12.53,79,Secured Loan,6576.73
+Medical Expenses,25253.46,11.67,48,Mortgage,660.94
+Other,175247.17,17.33,18,Personal Loan,11125.89
+Business Expansion/Startup,33136.99,8.49,20,Mortgage,1782.68
+Medical Expenses,497678.79,15.71,63,Mortgage,11648.99
+Vehicle Purchase,225746.37,15.01,61,Unsecured Loan,5312.46
+Debt Consolidation,76542.69,21.14,83,Unsecured Loan,1761.96
+Other,58056.39,21.1,112,Secured Loan,1189.72
+Medical Expenses,9362.45,11.17,86,Education Loan,158.67
+Vehicle Purchase,352225.08,9.46,72,Unsecured Loan,6429.76
+Education,473089.74,15.64,99,Education Loan,8534.07
+Home Renovation/Improvement,73261.29,5.87,92,Business Loan,990.81
+Business Expansion/Startup,459135.58,16.02,34,Auto Loan,16888.19
+Education,79691.01,15.8,82,Personal Loan,1594.9
+Other,277425.14,20.88,117,Education Loan,5566.95
+Business Expansion/Startup,413175.62,14.13,64,Education Loan,9227.32
+Debt Consolidation,309654.11,24.99,102,Education Loan,7346.02
+Vehicle Purchase,132574.76,13.12,93,Education Loan,2278.18
+Business Expansion/Startup,218685.67,8.32,53,Business Loan,4944.71
+Education,83707.84,22.11,64,Unsecured Loan,2237.98
+Business Expansion/Startup,86851.39,9.64,94,Business Loan,1319.83
+Home Renovation/Improvement,499791.65,11.64,27,Personal Loan,21129.6
+Wedding/Special Event,39061.95,5.99,32,Mortgage,1323.81
+Education,353476.68,6.37,7,Personal Loan,51574.56
